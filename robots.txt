@@ -10,3 +10,4 @@ Disallow:
 another line
 one more line
 #I m using push command
+Switching remote with github url
